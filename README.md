@@ -17,3 +17,5 @@ de organização de lista de inscrição e Check-in, sendo
   ## Casos de uso
 
   - Listagem de inscrição com Nome, Email, Data de Inscrição e Check-in
+
+
