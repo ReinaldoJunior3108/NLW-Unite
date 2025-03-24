@@ -18,4 +18,10 @@ de organização de lista de inscrição e Check-in, sendo
 
   - Listagem de inscrição com Nome, Email, Data de Inscrição e Check-in
 
+## Iniciar o Servidor 
 
+É necessario inicializar o servidor Node.JS para que o banco de dados funcione
+
+Com a pasta nlw-unite-nodejs-main aberta, digitar no terminal * npm run dev *
+
+Agora ja pode incializar a aplicaçao com o mesmo comando 
